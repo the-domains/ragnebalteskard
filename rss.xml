@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ragnebalteskard]]></title>
         <description><![CDATA[ragnebalteskard]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ragnebalteskard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 11:17:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 11:32:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ragnebalteskard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is a test]]></title>
+            <description><![CDATA[<h1>This is a test</h1>]]></description>
+            <link>https://thegrid.ai/ragnebalteskard/this-is-a-test/index.html</link>
+            <guid isPermaLink="false">c4e31982-b520-4e9c-8f13-ea555f748b0d</guid>
+            <pubDate>Wed, 20 Jan 2016 11:32:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Postete post]]></title>
             <description><![CDATA[<article><h1>Postete post</h1><p>This is a draft. I'm trying to make a beautiful website.</p></article>]]></description>
-            <link>undefinedpostete-post/index.html</link>
+            <link>https://thegrid.ai/ragnebalteskard/postete-post/index.html</link>
             <guid isPermaLink="false">278255ac-aace-4835-b439-a6f759387625</guid>
             <pubDate>Wed, 20 Jan 2016 11:16:59 GMT</pubDate>
         </item>
